@@ -3,7 +3,7 @@ body {
 }
 
 .content {
-  border-radius: 16px;
+  border-radius: 20px;
   background-color: hsl(0, 0%, 100%);
   width: 320px;
   height: 497px;
@@ -14,7 +14,7 @@ body {
 }
 
 .content img {
-  border-radius: 9px;
+  border-radius: 10px;
   margin: 16px;
   width: calc(100% - 2 * 16px);
 }
