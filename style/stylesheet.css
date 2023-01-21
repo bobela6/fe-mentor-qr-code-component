@@ -1,0 +1,38 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+}
+
+.content {
+  border-radius: 16px;
+  background-color: hsl(0, 0%, 100%);
+  width: 320px;
+  height: 497px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.content img {
+  border-radius: 9px;
+  margin: 16px;
+  width: calc(100% - 2 * 16px);
+}
+
+p {
+  font-family: "Outfit";
+  text-align: center;
+}
+
+p.title {
+  font-weight: bold;
+  font-size: 22px;
+  margin: 4px 20px;
+  color: hsl(218, 44%, 22%);
+}
+
+p.description {
+  margin: 15px 30px;
+  font-size: 15px;
+  color: hsl(220, 15%, 55%);
+}
