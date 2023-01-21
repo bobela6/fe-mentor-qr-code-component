@@ -25,7 +25,7 @@ p {
 }
 
 p.title {
-  font-weight: bold;
+  font-weight: 700;
   font-size: 22px;
   margin: 4px 20px;
   color: hsl(218, 44%, 22%);
@@ -33,6 +33,7 @@ p.title {
 
 p.description {
   margin: 15px 30px;
+  font-weight: 400;
   font-size: 15px;
   color: hsl(220, 15%, 55%);
 }
